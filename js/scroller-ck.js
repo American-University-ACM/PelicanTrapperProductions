@@ -1,0 +1,1 @@
+$(window).scroll(function(e){$("#navBar").css("margin-left",5-$(document).scrollLeft())});
